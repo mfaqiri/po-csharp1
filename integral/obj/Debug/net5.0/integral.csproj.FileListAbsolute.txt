@@ -1,0 +1,12 @@
+/home/mfaqiri/po-weekly/csh-coding-1/integral/bin/Debug/net5.0/integral.deps.json
+/home/mfaqiri/po-weekly/csh-coding-1/integral/bin/Debug/net5.0/integral.dll
+/home/mfaqiri/po-weekly/csh-coding-1/integral/bin/Debug/net5.0/ref/integral.dll
+/home/mfaqiri/po-weekly/csh-coding-1/integral/bin/Debug/net5.0/integral.pdb
+/home/mfaqiri/po-weekly/csh-coding-1/integral/obj/Debug/net5.0/integral.csprojAssemblyReference.cache
+/home/mfaqiri/po-weekly/csh-coding-1/integral/obj/Debug/net5.0/integral.GeneratedMSBuildEditorConfig.editorconfig
+/home/mfaqiri/po-weekly/csh-coding-1/integral/obj/Debug/net5.0/integral.AssemblyInfoInputs.cache
+/home/mfaqiri/po-weekly/csh-coding-1/integral/obj/Debug/net5.0/integral.AssemblyInfo.cs
+/home/mfaqiri/po-weekly/csh-coding-1/integral/obj/Debug/net5.0/integral.csproj.CoreCompileInputs.cache
+/home/mfaqiri/po-weekly/csh-coding-1/integral/obj/Debug/net5.0/integral.dll
+/home/mfaqiri/po-weekly/csh-coding-1/integral/obj/Debug/net5.0/ref/integral.dll
+/home/mfaqiri/po-weekly/csh-coding-1/integral/obj/Debug/net5.0/integral.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QIXkYGiO+oK/cSt/byHGHLqBga5WN1WiaA9gUqBhbQVwyrJdz2aYlt1m4M7EvGllLkrSNqDhKQiZ8R3FE+poRQ==",
+  "success": true,
+  "projectFilePath": "/home/mfaqiri/po-weekly/csh-coding-1/integral/integral.csproj",
+  "expectedPackageFiles": [
+    "/home/mfaqiri/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
